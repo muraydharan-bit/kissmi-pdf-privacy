@@ -1,2 +1,2 @@
-# pdf-dude-privacy
-Privacy Policy for PDF Dude Android App
+# kissmi-pdf-privacy
+Privacy Policy for KissMi PDF Android App
